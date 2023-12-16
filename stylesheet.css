@@ -1,0 +1,74 @@
+body {font-family: Arial, Helvetica, sans-serif ;color: #996600; font-stretch: wider; background-image: url(background14nov.gif); margin-top: 8px;}
+#container {width: 720px; height: auto; margin-left: auto; margin-right: auto; position: relative;  border: none; padding: 0 0 0px 0; border-color: #493925}
+#main {width: 750px; height: 430px;}
+#upper {width: 720px; height:300px}
+#lower {width: 720px; height:305px}
+#logflash {width: 173px; height: 83px;}
+#title {width: 200px; height: 25px}
+#head {width: 720px; height: 83px; margin-left: auto; margin-right: auto; position: relative; padding: 0px 0 0 15px; float: left}
+#left {width: 180px; height: 430px; float: left; background-repeat: no-repeat}
+#right {width: 555px; height: auto; float: left; border: none;}
+#links {width: 165px; height: auto; float: right;}
+#links2 {width: 165px; height: 270px; float: left; background-color: #ffffcc; }
+#linkgroup {width: 155px; height: auto; float: left; border-bottom: 1px; ; border-bottom-style: solid; border-bottom-color: #666633; font-size: 10px}
+#line {width: 300px; height: 10px; color: 666633; font-size: 70%; float: right; text-align: right}
+#linkgroup2 {width: 155px; height: auto; float: left; font-size: 10px}
+#linkgroup3 {width: 155px; height: auto; float: left; font-size: 10px;}
+#address {width: 135px; height: auto; float: right; padding: 0px 5px 0 0; font-stretch: wider; line-height: 16px; }
+#flash {width: 554px; height: 211px}
+#image {width: 554px; height: 211px}
+#executive {width: 552px; height: 15px; float: left; padding: 58px 0px 0px 6px; font-size: 10px; text-align: left; font-stretch: expanded}
+#ex-links {width: 100px; padding: 0 0 0 3px}
+#bar {width: auto; height: 18px; float: left; padding: 4px 9px 0px 15px; font-size: 70%; text-align: left; font-stretch: expanded; color: #493925; }
+#disclaimer {width: 35px; font-size: 10px}
+#bar3 {width: auto; height: auto; padding: 4px 0 4px 0; float: left;}
+#bar4 {width: 700px; height: 5px; padding: 6px 0 4px 0; float: left; background-image: url(bar.gif); background-repeat: no-repeat}
+#image {width: 153px; height: 143px}
+#training {width: 110px; height: 50px; float: left; padding: 7px 0 0px 20px}
+#photos {width: 153px; height: 250px; float: right; background-color: #fde690;}
+#text {width: 554px; height: auto; float: left; padding: 15px 0 0 0 ; position: relative;background-image: url(bar2.gif); background-repeat: no-repeat;}
+#lowerbar {width: 677px; height: 20px; float: left; text-align: right; padding: 0 20px 0 22px}
+#terms {width: 674px; height: 20px; background-color: #ffffcc; padding: 3px 5px 0 0; float: left}
+.indent {font-family: Arial, Helvetica, sans-serif; font-size: 120%; font-weight: bold; color: #493925}
+#wording {
+	width: 263px;
+	height: auto;
+	float: left;
+	padding: 0 28px 0 0;
+	color: #493925;
+	font-family: Arial, Helvetica, sans-serif; font-size: 70%;
+	text-align: justify;
+	font-stretch: wider;
+	letter-spacing: 1px;
+	line-height: 21px;
+}
+#wording2 {
+	width: 263px;
+	height: auto;
+	float: left;
+	padding: 4px 0px 0 0;
+	color: #493925;
+	font-family: Arial, Helvetica, sans-serif; font-size: 70%;
+	text-align: justify;
+	font-stretch: wider;
+	letter-spacing: 1px;
+	line-height: 21px;}
+#map {width: auto; height: auto}
+#logo {width: auto; height: auto; float: left; z-index:15;}
+
+a:link {font-family: Arial, Helvetica, sans-serif; color: #666633; text-decoration: none; font-size: 110%}
+a:visited {font-family: Arial, Helvetica, sans-serif; color: #666633; text-decoration: none; font-size: 110%}
+a:hover {font-family: Arial, Helvetica, sans-serif; color: #493925; text-decoration: none; font-size: 110%}
+a:active {font-family: Arial, Helvetica, sans-serif; color: #493925; text-decoration: none;font-size: 110%}
+a.sublink1:link {font-family: Arial, Helvetica, sans-serif; color: #666633; text-decoration: underline; font-size: 100%}
+a.sublink1:visited {font-family: Arial, Helvetica, sans-serif; color: #666633; text-decoration: underline;font-size: 100%}
+a.sublink1:hover {font-family: Arial, Helvetica, sans-serif; color: #493925; text-decoration: underline;  font-size: 100%}
+a.sublink1:active {font-family: Arial, Helvetica, sans-serif; color: #493925; text-decoration: underline;  font-size: 100%}
+a.sublink2:link {font-family: Arial, Helvetica, sans-serif; color: #666633; text-decoration: none; font-size: 100%; font-weight: bold}
+a.sublink2:visited {font-family: Arial, Helvetica, sans-serif; color: #666633; text-decoration: none;font-size: 100%; font-weight: bold}
+a.sublink2:hover {font-family: Arial, Helvetica, sans-serif; color: #493925; text-decoration: none;  font-size: 100%; font-weight: bold}
+a.sublink2:active {font-family: Arial, Helvetica, sans-serif; color: #493925; text-decoration: none;  font-size: 100%; font-weight: bold}
+a.sublink3:link {color: #ffffff;}
+a.sublink3:visited {color: #ffffff;}
+a.sublink3:hover {color: #666666;}
+a.sublink3:active {color: #666666;}
