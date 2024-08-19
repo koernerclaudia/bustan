@@ -1,6 +1,6 @@
-body {font-family: Arial, Helvetica, sans-serif ;color: #996600; font-stretch: wider; background-image: url(background14nov.gif); margin-top: 8px;}
+body {font-family: Arial, Helvetica, sans-serif ;color: #996600; font-stretch: wider; margin-top: 8px; background-color: #f7f6e2}
 #container {width: 720px; height: auto; margin-left: auto; margin-right: auto; position: relative;  border: none; padding: 0 0 0px 0; border-color: #493925}
-#main {width: 750px; height: 430px;}
+#main {width: 750px; height: 430px; background-image: url(background14nov.gif); }
 #upper {width: 720px; height:300px}
 #lower {width: 720px; height:305px}
 #logflash {width: 173px; height: 83px;}
